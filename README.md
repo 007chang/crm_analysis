@@ -1,4 +1,4 @@
-#Ecommerce Project (CRM Analysis)
+Ecommerce Project (CRM Analysis)
 
 Overview
 The Ecommerce Capstone Project focuses on analyzing customer data to generate actionable insights for top executives. The goal is to transform raw data into meaningful recommendations that can drive business strategies, optimize marketing efforts, and improve customer retention. This project aims to demonstrate the power of data analytics in understanding customer behavior and enhancing decision-making in the domain of ecommerce.
